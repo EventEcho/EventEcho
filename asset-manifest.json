@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ffd85430.css",
-    "main.js": "/static/js/main.97b259bd.js",
+    "main.css": "/static/css/main.65a19e72.css",
+    "main.js": "/static/js/main.4ae7dbd7.js",
     "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
     "static/media/home_back1.png": "/static/media/home_back1.73ab9e7c25260d09af35.png",
     "static/media/about_back1.png": "/static/media/about_back1.c479d2eea63231a24c29.png",
@@ -9,15 +9,16 @@
     "static/media/home_back2.png": "/static/media/home_back2.9fc2196fc341acef459b.png",
     "static/media/phone_home1.png": "/static/media/phone_home1.8e86636562bbe32d32ce.png",
     "static/media/logo_without_background.png": "/static/media/logo_without_background.7ac8bd4a18fc9049004a.png",
+    "static/media/Goldman-Regular.ttf": "/static/media/Goldman-Regular.6076110de2c4d71c0f6c.ttf",
     "static/media/icon_ig.png": "/static/media/icon_ig.2e6d4ad79ac44c4042b6.png",
     "static/media/eventecho.png": "/static/media/eventecho.294137c34f7296ce6b66.png",
     "index.html": "/index.html",
-    "main.ffd85430.css.map": "/static/css/main.ffd85430.css.map",
-    "main.97b259bd.js.map": "/static/js/main.97b259bd.js.map",
+    "main.65a19e72.css.map": "/static/css/main.65a19e72.css.map",
+    "main.4ae7dbd7.js.map": "/static/js/main.4ae7dbd7.js.map",
     "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffd85430.css",
-    "static/js/main.97b259bd.js"
+    "static/css/main.65a19e72.css",
+    "static/js/main.4ae7dbd7.js"
   ]
 }
